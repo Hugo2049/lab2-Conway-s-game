@@ -1,0 +1,1 @@
+# lab2-Conway-s-game
